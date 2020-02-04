@@ -1,0 +1,2 @@
+Use StateMachine on the player
+Cursor only in game
